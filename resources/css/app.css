@@ -24,3 +24,23 @@ html, body {
     color: green;
     text-decoration: underline;
     }
+    a:visited {
+        color: gray;
+        }
+       a:hover {
+        color: red;
+        text-decoration: none;
+       }
+       a:active, a:focus {
+        color: red;
+       }
+       a:visited {
+        color: gray;
+        }
+       a:hover {
+        color: red;
+        text-decoration: none;
+       }
+       a:active, a:focus {
+        color: red;
+       }
